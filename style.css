@@ -1,0 +1,18 @@
+h1 {
+    color: #EC183f;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+body {
+    width: 592px;
+    margin: 0 auto 72px ;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.redes {
+    max-width:30px;
+    max-height:30px;
+    width: auto;
+    height: auto;
+}
+
